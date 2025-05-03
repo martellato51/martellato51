@@ -17,7 +17,7 @@ Actively studying various topics to discover and deepen my interests in machine 
   
 - **Korea East-West Power Co. – RPS운영센터** (Jan 2025 – Feb 2025)  
     Automated internal tasks using Python scripts to improve operational efficiency in IT services and data handling.  
-    Gained hands-on experience with internal data systems and IT service workflows.
+    Gained hands-on experience with Renewable Portfolio Standard (RPS) operations and internal data systems.
 ---
 
 
