@@ -11,7 +11,7 @@ Actively studying various topics to discover and deepen my interests in machine 
 ---
 
 ### 💼 Experience
-- **Research Intern, Data Science Lab, Chungnam National University** (Mar 2025 – Aug 2025, expected)  
+- **Research Intern, Data Science Lab, Chungnam National University** (Mar 2025 – Present)  
   Participating in research on statistical modeling and machine learning.  
   Assisting with projects involving data preprocessing, analysis, and algorithm implementation.
   
