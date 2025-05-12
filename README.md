@@ -26,7 +26,7 @@ Actively studying various topics to discover and deepen my interests in machine 
 
 ---
 ### 📫 Contact
-Feel free to reach out via [martellato41@gmail.com](mailto:martellato41@gmail.com)
+Feel free to reach out via [martellato41@gmail.com](mailto:martellato41@gmail.com){:target="_blank"}
 
 ---
 
