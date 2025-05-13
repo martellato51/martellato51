@@ -25,7 +25,7 @@ Actively studying various topics to discover and deepen my interests in machine 
 - [Full CV](https://drive.google.com/file/d/1dhQimiS542-tr3FxvcxqxAuyz_0ugvBx/view?usp=sharing)
 ---
 ### 📫 Contact
-Feel free to reach out via [martellato41@gmail.com](mailto:martellato41@gmail.com){:target="_blank"}
+Feel free to reach out via [martellato41@gmail.com](mailto:martellato41@gmail.com)
 
 ---
 
