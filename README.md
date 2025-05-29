@@ -25,7 +25,7 @@ Actively studying various topics to discover and deepen my interests in machine 
 - [CV_link](https://drive.google.com/file/d/1dhQimiS542-tr3FxvcxqxAuyz_0ugvBx/view?usp=sharing)
 ---
 ### 📫 Contact
-Feel free to reach out via [martellato41@gmail.com](mailto:martellato_@naver.com)
+Feel free to reach out via [martellato_@naver.com](mailto:martellato_@naver.com)
 
 ---
 
