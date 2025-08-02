@@ -16,7 +16,6 @@ Actively studying various topics to discover and deepen my interests in machine 
 - **Research Intern, Air Mobility Division, Electronics and Telecommunications Research Institute (ETRI)** (Jul 2025 - Aug 2025)  
   Participated in the development of an integrated smart safety monitoring system for construction sites.
   Built a construction site–specific object detection model capable of identifying various heavy equipment and workers using visual data, with a focus on improving real-time performance and detection accuracy.
-  *This work was conducted as part of the Korean national R&D project RS-2020-KA156208*
 
   
 - **Research Intern, Data Science Lab, Chungnam National University** (Mar 2025 – Jul 2025)  
