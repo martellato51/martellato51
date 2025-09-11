@@ -1,14 +1,14 @@
 ### 👋 Hello! I'm Il-Ju Hahn(한일주)
 
-I'm a final-year Statistics major passionate about **Deep Learning**, **Computer Vision**, and real-world data applications.  
+I'm a final-year Statistics major passionate about **Deep Learning**, **Computer Vision**, **Recommender Systems** and real-world data applications.  
 Actively studying various topics to discover and deepen my interests in machine learning and deep learning.
 
 ---
 
 ### 🔍 Interests
 - 🤖 Deep Learning (Computer Vision, Knowledge Distillation, Multimodal Learning)
-- 🧠 Representation Learning
 - 📊 Recommender Systems
+- 🧠 Representation Learning
 ---
 
 ### 💼 Experience
