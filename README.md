@@ -1,14 +1,14 @@
 ### 👋 Hello! I'm Il-Ju Hahn(한일주)
 
-I'm a final-year Statistics major passionate about **Deep Learning**, **Computer Vision**, **Recommender Systems** and real-world data applications.  
+I'm a final-year Statistics major passionate about **Deep Learning**, **Representation Learning**, **Computer Vision** and real-world data applications.  
 Actively studying various topics to discover and deepen my interests in machine learning and deep learning.
 
 ---
 
 ### 🔍 Interests
-- 🤖 Deep Learning (Computer Vision, Knowledge Distillation, Multimodal Learning)
-- 📊 Recommender Systems
+- 🤖 Deep Learning (Computer Vision, Tabular data, Multimodal Learning)
 - 🧠 Representation Learning
+- 📊 Self-supervised Learning
 ---
 
 ### 💼 Experience
@@ -18,7 +18,7 @@ Actively studying various topics to discover and deepen my interests in machine 
   Built a construction site–specific object detection model capable of identifying various heavy equipment and workers using visual data, with a focus on improving real-time performance and detection accuracy.
 
   
-- **Research Intern, Data Science Lab, Chungnam National University** (Mar 2025 – Jul 2025)  
+- **Research Intern, Data Science Lab, Chungnam National University** (Mar 2025 – Dec 2025)  
   Assisting with projects involving data preprocessing, analysis, and statistical modeling and machine learning.
   Contributed to the development of an inpatient episode database using healthcare claims data from NHIS, as part of a forest healing and public health data analysis project led by the National Institute of Forest Science, Korea Forest Service. 
 
